@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="tasks">Task List</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="no_tasks_available">No Tasks Available</string>
+    <string name="login">Login</string>
+    <string name="email">E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete">Delete</string>
+    <string name="checkbox_add_description">Add description</string>
+    <string name="add_description">Write your description here…</string>
+    <string name="submit">Submit</string>
+</resources>

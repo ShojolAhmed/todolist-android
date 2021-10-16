@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="orange">#FFB521</color>
+    <color name="orangeDark">#EE9F00</color>
+    <color name="orangeDark2">#DDA83E</color>
+    <color name="gray">#aaa</color>
+    <color name="red">#F40000</color>
+<!--    <color name="background">#F8F8F8</color>-->
+</resources>
